@@ -1,0 +1,11 @@
+{
+  "request": "Create a Python function called add_numbers that takes two numbers and returns their sum. Keep it simple.",
+  "timestamp": "2026-03-31T13:01:31.356235",
+  "agents": {
+    "planner": {
+      "model": "dolphin-llama3:70b",
+      "output": "ERROR: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+      "time_seconds": 4.3
+    }
+  }
+}
